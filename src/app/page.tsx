@@ -293,6 +293,14 @@ function Curriculum() {
           <p className="mt-6 text-gray-500 text-lg max-w-2xl mx-auto">
             기초부터 수익 창출까지, 단계별로 완성하는 파크골프 지도자 과정
           </p>
+          <p className="mt-6 text-lg sm:text-xl md:text-2xl font-bold text-gray-900 max-w-3xl mx-auto leading-relaxed">
+            먼 길 오시는 발걸음,{" "}
+            <span className="bg-yellow-300 px-1 rounded">&apos;자격증&apos;</span>
+            으로 확실히 보답합니다.
+            <br />
+            원데이 과정으로{" "}
+            <span className="bg-yellow-300 px-1 rounded">딱 하루</span>면 충분합니다!
+          </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-6">
